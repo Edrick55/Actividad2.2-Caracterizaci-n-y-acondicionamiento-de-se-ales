@@ -1,2 +1,2 @@
-# Actividad2.2-Caracterización-y-acondicionamiento-de-se-ales
+# Actividad2.2-Caracterización-y-acondicionamiento-de-señales
 Códigos actividad 2.2.3
